@@ -1,8 +1,7 @@
 {
   "functions": {
     "api/ethereal.js": {
-      "runtime": "nodejs20.x",
-      "regions": ["iad1"]
+      "runtime": "nodejs20.x"
     }
   }
 }
